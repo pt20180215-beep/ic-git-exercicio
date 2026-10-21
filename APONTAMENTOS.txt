@@ -1,3 +1,0 @@
-Aprendi a criar repositórios com Git 
-aprende a guardar alterações usando commit 
-aprende a enviar ficheiros para o github
